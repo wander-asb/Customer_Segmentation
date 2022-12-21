@@ -17,4 +17,6 @@ Em relação ao uso de modelos de análise RFM, o K-Means converte como ferramen
 
 ## Objetivo
 
+Desta forma, este repositório visa fundamentar e desenvolver aspectos teóricos e práticos do desenvolvimento do modelo de clusterização K-Means com base em dados de transações financeiras, que serão capazes de impactar, ou então, auxiliar estudos e futuras pesquisas vinculadas ao uso de modelos de segmentação de consumidores.
+
 ## Conclusão

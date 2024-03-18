@@ -1,8 +1,5 @@
 
 
-<p align="center">
-  <img width="600" height="600" src="[[https://simpleads.com.br/wp-content/uploads/2018/05/191576-segmentacao-de-mercado-conheca-3-grandes-conceitos-do-marketing-1.jpg](https://www.jornalismo.ufv.br/cinecom/wp-content/uploads/2021/06/reality-show.jpg)](https://site.helprace.com/wp-content/uploads/2019/02/customer-segmentation.png)">
-</p>
 
 # Segmentação de clientes
 
